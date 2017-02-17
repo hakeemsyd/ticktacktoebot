@@ -1,0 +1,28 @@
+{
+  "name": "ticktacktoebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakeemsyd/ticktacktoebot.git"
+  },
+  "author": "Syed Hakeem Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakeemsyd/ticktacktoebot/issues"
+  },
+  "homepage": "https://github.com/hakeemsyd/ticktacktoebot#readme",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "debug": "^2.6.1",
+    "restify": "^4.3.0",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
